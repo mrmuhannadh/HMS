@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>QRCode Scanner</title>
+    <script type="text/javascript" src="instascan.min.js"></script>
+  </head>
+  <body>
+    <video id="preview"></video>
+    <input type="text" name="text" id="text" readonyy="" placeholder="scan QRcode" class="form-control">
+    <script type="text/javascript">
+      let scanner = new Instascan.Scanner({
+        video: document.getElementById('preview')
+      });
+
+      scanner.addListener('scan', function (content) {
+        console.log(content);
+      });
+
+      Instascan.Camera.getCameras().then(function (cameras) {
+        if (cameras.length > 0) {
+          scanner.start(cameras[0]);
+        } else {
+          console.error('No cameras found.');
+        }
+      }).catch(function (e) {
+        console.error(e);
+      });
+
+      scanner.addListener('scan',function(c){
+            document.getElementById('text').value=c;
+        });
+
+    </script>
+  </body>
+</html>

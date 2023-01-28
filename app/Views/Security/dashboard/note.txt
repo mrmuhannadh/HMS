@@ -1,0 +1,9 @@
+database change 
+1. insert user in user table
+        user_id:-sb001 , password:- 123
+
+
+2.update tha security with pro_pic
+3.insert data into security
+
+4. drop some images into assets/images/security folder with their user id 
