@@ -1,0 +1,547 @@
+CRITICAL - 2022-03-16 03:38:45 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:38:54 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:38:59 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:39:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:40:38 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:41:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:42:16 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:42:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:43:42 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:53:04 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:53:12 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:54:29 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:54:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:54:35 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:56:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:56:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:56:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:56:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:56:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:56:51 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:57:00 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:57:03 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:57:06 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:57:35 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:57:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:57:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 03:58:02 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 F:\SOFTWARES\htdocs\HMS\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 F:\SOFTWARES\htdocs\HMS\index.php(28): require('F:\\SOFTWARES\\ht...')
+#4 {main}
+CRITICAL - 2022-03-16 04:18:31 --> syntax error, unexpected end of file
+#0 F:\SOFTWARES\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('F:\\SOFTWARES\\ht...')
+#1 F:\SOFTWARES\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 04:19:03 --> Invalid file: header.php
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('header', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(13): view('header')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 04:22:22 --> Undefined array key "user_n"
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\header\header.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 4)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('header/header.p...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(13): view('header/header.p...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-16 11:29:27 --> syntax error, unexpected token "/"
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('index.html', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(14): view('index.html')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:29:40 --> syntax error, unexpected token "/"
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('index.html', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(14): view('index.html')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:29:57 --> syntax error, unexpected token "/"
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('index.html', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(14): view('index.html')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:31:23 --> syntax error, unexpected token "/"
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('index.html', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(14): view('index.html')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:31:24 --> syntax error, unexpected token "/"
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('index.html', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(14): view('index.html')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:31:36 --> syntax error, unexpected token "/"
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('index.html', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(14): view('index.html')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:32:44 --> syntax error, unexpected token "/"
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('index.html', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(14): view('index.html')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:33:04 --> syntax error, unexpected token "/"
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('index.html', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(14): view('index.html')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:37:04 --> syntax error, unexpected double-quote mark, expecting "," or ";"
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('index.html', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(14): view('index.html')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:46:56 --> Invalid file: login.php
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('login.php', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(18): view('login.php')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->login('login')
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:47:04 --> Invalid file: login.php
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('login.php', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(18): view('login.php')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->login('login.php')
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:47:52 --> Invalid file: login.php
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('login.php', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(18): view('login.php')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->login('login.php')
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:47:58 --> Invalid file: login.php
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('login.php', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(18): view('login.php')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->login('login')
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 11:50:01 --> Invalid file: login/login.php
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/login.php')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('login/login.php', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(18): view('login/login.php')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->login()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 12:41:56 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 12:42:24 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 12:43:42 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 12:43:49 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:14:58 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:15:03 --> syntax error, unexpected variable "$user_id", expecting "]"
+#0 F:\SOFTWARES\htdocs\HMS\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/check_user')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/check_user')
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:15:55 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:18:04 -->  route cannot be found while reverse-routing.
+#0 F:\SOFTWARES\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(29): redirect('Dashboard')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 13:20:05 --> syntax error, unexpected token "(", expecting ";" or "{"
+#0 F:\SOFTWARES\htdocs\HMS\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/check_user')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/check_user')
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:20:14 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:20:27 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:21:28 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:21:32 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:21:45 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:22:22 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:22:28 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:23:01 --> Undefined property: App\Controllers\Home::$usersss
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:26:41 -->  route cannot be found while reverse-routing.
+#0 F:\SOFTWARES\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(29): redirect('Dashboard')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 13:26:47 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:29:50 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 25)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:32:02 -->  route cannot be found while reverse-routing.
+#0 F:\SOFTWARES\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(30): redirect('Dashboard')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 13:32:13 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 26)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:32:29 --> Undefined variable $password
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 24)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:32:31 --> Undefined variable $password
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 24)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:32:45 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 27)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:32:47 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 27)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:32:53 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 27)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:33:14 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 27)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:33:45 --> Undefined property: App\Controllers\Home::$db
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 24)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:34:23 --> Undefined property: App\Controllers\Home::$users
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 27)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 13:36:13 --> Undefined property: App\Controllers\Home::$tableis
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 27)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 22:31:54 --> Undefined property: App\Controllers\Home::$tableis
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 27)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

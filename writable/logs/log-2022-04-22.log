@@ -1,0 +1,107 @@
+CRITICAL - 2022-04-22 00:20:39 --> Undefined array key "student_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Request.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 157)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Request->room_request()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Request))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 04:59:43 -->  route cannot be found while reverse-routing.
+#0 F:\SOFTWARES\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Request.php(320): redirect('/')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Request->roomChange()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Request))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-22 09:01:37 --> A non-numeric value encountered
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\SOFTWARES\\ht...', 49)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 09:05:52 --> A non-numeric value encountered
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\SOFTWARES\\ht...', 50)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 09:07:55 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, bool given
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(51): date_diff(false, '2022-04-22')
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 09:15:08 --> A non-numeric value encountered
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\SOFTWARES\\ht...', 54)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 09:17:02 --> A non-numeric value encountered
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\SOFTWARES\\ht...', 54)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 12:32:08 --> Undefined variable $row
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 84)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 12:32:08 --> Undefined variable $row
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 84)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 12:37:00 --> A non-numeric value encountered
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\SOFTWARES\\ht...', 54)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 12:37:12 --> A non-numeric value encountered
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\SOFTWARES\\ht...', 54)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 12:37:13 --> A non-numeric value encountered
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'F:\\SOFTWARES\\ht...', 54)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 12:48:28 --> Undefined array key "entered_date"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 63)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 12:50:10 --> Undefined array key "entered_date"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 63)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-22 12:50:26 --> Undefined array key "entered_date"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Attendance.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 63)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Attendance->studentStatus()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Attendance))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

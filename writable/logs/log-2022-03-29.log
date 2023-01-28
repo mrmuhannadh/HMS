@@ -1,0 +1,595 @@
+CRITICAL - 2022-03-29 13:13:33 --> Class "App\Controllers\Security" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 13:17:02 --> Class "App\Controllers\Security" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 13:17:05 --> Class "App\Controllers\Security" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 13:17:39 --> Class "App\Controllers\Security" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 13:18:12 --> Class "App\Controllers\Security_model" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 13:20:36 --> Undefined array key "pro_pic"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 93)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Home.php(49): view('security/dashbo...', Array)
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 13:21:52 --> Undefined array key "pro_pic"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 89)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Home.php(49): view('security/dashbo...', Array)
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 13:22:12 --> Undefined array key "pro_pic"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 155)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Home.php(49): view('security/dashbo...', Array)
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 13:23:57 --> Undefined array key "Qualification"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(453): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 453)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Home.php(49): view('security/dashbo...', Array)
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 13:24:24 --> Undefined array key "Qualification"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(453): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 453)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Home.php(49): view('security/dashbo...', Array)
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 13:25:13 --> Undefined variable $w_d
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(495): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 495)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Home.php(49): view('security/dashbo...', Array)
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 13:25:55 --> Undefined variable $w_d
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(495): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 495)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Home.php(49): view('security/dashbo...', Array)
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 13:41:05 --> syntax error, unexpected string content "); ", expecting ")"
+#0 C:\xampp\htdocs\HMS\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/check_user')
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/check_user')
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 13:41:27 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Home.php(50): redirect('Security_login')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 13:42:06 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Home.php(50): redirect('Security_login')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 13:53:15 --> Undefined variable $user_datas
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 78)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 13:54:03 --> Unmatched '}'
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 13:54:28 --> Undefined variable $d
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(328): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 328)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 13:55:49 --> Undefined variable $data
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 13:56:11 --> Too few arguments to function App\Controllers\Security_Dashboard::index(), 0 passed in C:\xampp\htdocs\HMS\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-29 14:08:18 --> Undefined variable $user_datas
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 78)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 14:08:31 --> Unmatched '}'
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 14:08:42 --> Undefined variable $d
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(328): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 328)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 14:26:41 --> syntax error, unexpected variable "$session", expecting "function" or "const"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 14:26:43 --> syntax error, unexpected variable "$session", expecting "function" or "const"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 14:27:27 --> syntax error, unexpected variable "$_SESSION"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 14:30:16 --> syntax error, unexpected variable "$session"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 14:31:46 --> syntax error, unexpected variable "$session"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 14:32:03 --> syntax error, unexpected identifier "session"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 14:33:59 --> Undefined variable $config
+#0 C:\xampp\htdocs\HMS\app\Controllers\Home.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 7)
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 14:34:47 --> Undefined variable $users_id
+#0 C:\xampp\htdocs\HMS\app\Controllers\Home.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 46)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 14:35:10 --> Undefined variable $users_id
+#0 C:\xampp\htdocs\HMS\app\Controllers\Home.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 46)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 14:35:13 --> Undefined variable $users_id
+#0 C:\xampp\htdocs\HMS\app\Controllers\Home.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 46)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 14:35:17 --> Undefined variable $users_id
+#0 C:\xampp\htdocs\HMS\app\Controllers\Home.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 46)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 14:35:50 --> Undefined variable $users_id
+#0 C:\xampp\htdocs\HMS\app\Controllers\Home.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 14:46:19 --> Undefined global variable $_SESSION
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined globa...', 'C:\\xampp\\htdocs...', 166)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 14:47:47 --> Array to string conversion
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 14:48:00 --> Undefined array key "sec_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 14:48:28 --> Array to string conversion
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 14:48:57 --> Undefined array key "user_name"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 14:49:11 --> Undefined constant "user_name"
+#0 C:\xampp\htdocs\HMS\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#3 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-29 14:51:03 --> Undefined array key "user_name"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 14:52:22 --> Array to string conversion
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(159): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 159)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 14:53:31 --> syntax error, unexpected token "foreach"
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 14:54:48 --> syntax error, unexpected token "foreach"
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 14:54:59 --> Undefined array key "user_name"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 75)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 15:06:03 --> syntax error, unexpected token "public", expecting end of file
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:18:38 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(20): redirect('security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:19:05 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(20): redirect('security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:19:10 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(20): redirect('security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:19:17 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(20): redirect('security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:19:31 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(20): redirect('security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:22:07 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(18): redirect('Security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:22:08 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(18): redirect('Security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:22:16 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\HMS\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\HMS\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(18): redirect('Security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:24:33 --> Undefined array key "user_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 15:37:24 --> Unclosed '{' on line 74
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(18): view('Security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:37:26 --> Unclosed '{' on line 74
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(18): view('Security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:42:45 --> syntax error, unexpected token ";"
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(18): view('Security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 15:44:26 --> Undefined array key "user_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 15:44:35 --> Undefined array key "user_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(18): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 15:44:38 --> Undefined array key "user_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 73)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-29 22:08:45 --> Undefined variable $user_datas
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\Warden\dashboard\index.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 82)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Warden/dashboar...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Dashboard.php(124): view('Warden/dashboar...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Dashboard->prof()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-03-29 22:13:43 --> Unknown column '0user_id' in 'where clause'
+CRITICAL - 2022-03-29 22:13:43 --> Call to a member function getResult() on bool
+#0 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(45): CodeIgniter\BaseModel->findAll()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

@@ -1,0 +1,634 @@
+CRITICAL - 2022-08-22 00:14:32 --> Undefined array key "user_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\SubWarden\Requests\request.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 86)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('SubWarden/Reque...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Request.php(20): view('SubWarden/Reque...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Request->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Request))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 01:46:55 --> Undefined array key "user_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\SubWarden\dashboard\index.php(141): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 141)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('SubWarden/dashb...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Subwarden_dashboard.php(339): view('SubWarden/dashb...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Dashboard->prof()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 01:56:35 --> Undefined array key "user_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\SubWarden\Chat\chat.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 100)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('SubWarden/Chat/...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Subwarden_dashboard.php(342): view('SubWarden/Chat/...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Dashboard->chat()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 01:58:07 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Dean_Chats.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 110)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-08-22 02:08:27 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 02:11:03 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 02:15:57 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-08-22 02:20:17 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Dean_Chats.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 110)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 02:20:21 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Dean_Chats.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 110)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 02:22:29 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Dean_Chats.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 110)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 02:23:55 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Dean_Chats.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 110)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 02:28:24 --> Undefined array key "user_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\Student\dashboard\index.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 92)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Student/dashboa...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Student_Dashboard.php(353): view('Student/dashboa...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_Dashboard->profile()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 02:33:57 --> Undefined array key "user_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\SubWarden\Chat\chat.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 98)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('SubWarden/Chat/...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Subwarden_dashboard.php(342): view('SubWarden/Chat/...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Dashboard->chat()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 02:48:34 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Dean_Chats.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 110)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 02:48:38 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Dean_Chats.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 110)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 02:51:48 --> Class "App\Controllers\student_member_model" not found
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_Chat->getProPic()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_Chat))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-22 02:53:26 --> Class "App\Controllers\student_member_model" not found
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_Chat->getProPic()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_Chat))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-22 02:54:44 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Chats.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 169)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 02:55:11 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Chats.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 169)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 03:01:57 --> Class "App\Controllers\student_member_model" not found
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getProPic()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-22 03:02:25 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Dean_Chats.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 161)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 03:09:27 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Chats.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 169)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 03:43:47 --> Class "App\Controllers\student_member_model" not found
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_Chat->getProPic()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_Chat))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-08-22 04:48:13 --> Unknown column 'user_id' in 'where clause'
+CRITICAL - 2022-08-22 04:48:13 --> Call to a member function getResult() on bool
+#0 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 F:\SOFTWARES\htdocs\HMS\app\Controllers\Student_Dashboard.php(258): CodeIgniter\BaseModel->findAll()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_Dashboard->update_user()
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_Dashboard))
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-22 05:36:32 --> Undefined variable $user_id
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\Student\dashboard\index.php(934): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 934)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Student/dashboa...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Student_Dashboard.php(15): view('Student/dashboa...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_Dashboard->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 05:36:39 --> Undefined variable $user_id
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\Student\dashboard\index.php(934): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 934)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Student/dashboa...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Student_Dashboard.php(15): view('Student/dashboa...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_Dashboard->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 05:37:26 --> Undefined variable $user_id
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\Student\dashboard\index.php(933): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 933)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Student/dashboa...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Student_Dashboard.php(15): view('Student/dashboa...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_Dashboard->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 05:37:31 --> Undefined variable $user_id
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\Student\dashboard\index.php(933): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 933)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Student/dashboa...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Student_Dashboard.php(15): view('Student/dashboa...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_Dashboard->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-08-22 06:00:25 --> Duplicate entry 'TG003' for key 'PRIMARY'
+ERROR - 2022-08-22 06:01:17 --> Duplicate entry 'TG003' for key 'PRIMARY'
+ERROR - 2022-08-22 06:01:45 --> Duplicate entry 'TG003' for key 'PRIMARY'
+ERROR - 2022-08-22 06:04:30 --> Duplicate entry 'TG003' for key 'PRIMARY'
+ERROR - 2022-08-22 06:05:01 --> Duplicate entry 'TG003' for key 'PRIMARY'
+CRITICAL - 2022-08-22 06:57:14 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(82): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMineForHeader()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 06:57:14 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(68): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMine()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 06:57:53 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(68): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMine()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 06:57:53 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(82): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMineForHeader()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:00:04 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(68): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMine()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:00:04 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(82): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMineForHeader()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:01:38 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(68): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMine()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:01:38 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(82): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMineForHeader()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:01:55 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(68): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMine()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:01:55 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(82): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMineForHeader()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:03:21 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(82): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMineForHeader()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:03:21 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(68): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMine()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:03:28 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(82): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMineForHeader()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:03:28 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 312)
+#1 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(312): implode(',', Array)
+#2 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(293): CodeIgniter\Database\Query->matchNamedBinds('SELECT *\nFROM `...', Array)
+#3 F:\SOFTWARES\htdocs\HMS\system\Database\Query.php(150): CodeIgniter\Database\Query->compileBinds()
+#4 F:\SOFTWARES\htdocs\HMS\system\Database\BaseConnection.php(598): CodeIgniter\Database\Query->getQuery()
+#5 F:\SOFTWARES\htdocs\HMS\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#6 F:\SOFTWARES\htdocs\HMS\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#7 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#8 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(68): CodeIgniter\BaseModel->findAll()
+#9 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getProPicOfMine()
+#10 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#11 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-22 07:04:50 --> Undefined array key "user_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\admin\dashboard\index.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 142)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('admin/dashboard...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(30): view('admin/dashboard...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 07:09:38 --> Undefined array key "user_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\admin\dashboard\index.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 142)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('admin/dashboard...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\admin_Dashboard.php(30): view('admin/dashboard...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 07:15:22 --> Call to a member function isValid() on null
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->update_propic()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-22 10:22:51 --> Invalid numeric literal
+#0 F:\SOFTWARES\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('F:\\SOFTWARES\\ht...')
+#1 F:\SOFTWARES\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-22 10:23:07 --> Invalid numeric literal
+#0 F:\SOFTWARES\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('F:\\SOFTWARES\\ht...')
+#1 F:\SOFTWARES\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-08-22 10:29:06 --> Duplicate entry '' for key 'PRIMARY'
+CRITICAL - 2022-08-22 10:34:32 --> Undefined constant "App\Controllers\TG410"
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->addStudent()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-22 10:34:48 --> Undefined constant "App\Controllers\TG411"
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->addStudent()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-22 10:35:02 --> Undefined constant "App\Controllers\TG411"
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->addStudent()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-08-22 11:21:01 --> Table 'hms.reset_password' doesn't exist
+ERROR - 2022-08-22 11:21:01 --> Table 'hms.reset_password' doesn't exist
+ERROR - 2022-08-22 11:21:01 --> Table 'hms.reset_password' doesn't exist
+CRITICAL - 2022-08-22 11:21:01 --> Call to a member function getResult() on bool
+#0 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#1 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(154): CodeIgniter\BaseModel->find()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->forgot_password()
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-22 22:10:03 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 22:10:34 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 22:11:24 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-08-22 13:06:57 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Dean_Chats.php(172): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 172)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 13:07:13 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Dean_Chats.php(172): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 172)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\dean_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dean_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 13:07:45 --> Array to string conversion
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\SubWarden\dashboard\index.php(374): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 374)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('SubWarden/dashb...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Subwarden_dashboard.php(10): view('SubWarden/dashb...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Dashboard->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 13:09:32 --> Array to string conversion
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\SubWarden\dashboard\index.php(374): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'F:\\SOFTWARES\\ht...', 374)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('SubWarden/dashb...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Subwarden_dashboard.php(10): view('SubWarden/dashb...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Dashboard->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-22 13:11:11 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Chats.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 169)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 13:11:17 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Chats.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 169)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 13:11:24 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Chats.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 169)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 13:12:50 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Chats.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 169)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 13:13:02 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Chats.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 169)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 20:48:28 --> Undefined variable $phoneNo
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\SubWarden_Rooms.php(493): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 493)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\SubWarden_Rooms->othersinRoom()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubWarden_Rooms))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-08-22 21:03:11 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:04:33 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:05:08 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:06:51 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:08:42 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:09:30 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:09:56 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:10:47 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:11:10 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:11:31 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:12:03 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:12:58 --> Column 'student_id' cannot be null
+ERROR - 2022-08-22 21:13:59 --> Column 'student_id' cannot be null
+CRITICAL - 2022-08-22 21:19:35 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Chats.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 169)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 21:24:07 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Subwarden_chats.php(146): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 146)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 21:26:11 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Subwarden_chats.php(146): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 146)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-22 21:26:15 --> Undefined array key "sec_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Subwarden_chats.php(146): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 146)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Chats->getSecurity()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Chats))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-08-22 21:30:36 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 21:30:41 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 23:07:36 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 23:10:22 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 23:12:04 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 23:15:20 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 23:23:26 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 23:26:30 --> Duplicate entry '0' for key 'PRIMARY'
+ERROR - 2022-08-22 23:28:40 --> Duplicate entry '0' for key 'PRIMARY'

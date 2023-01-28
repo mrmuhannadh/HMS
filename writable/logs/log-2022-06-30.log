@@ -1,0 +1,47 @@
+CRITICAL - 2022-06-30 01:43:33 --> Class "App\Models\model_dues" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_register->getDues()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_register))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-06-30 02:35:34 --> Unknown column 'rec' in 'field list'
+ERROR - 2022-06-30 02:36:12 --> Unknown column 'rec' in 'field list'
+ERROR - 2022-06-30 02:58:42 --> Unknown column 'user_id' in 'where clause'
+CRITICAL - 2022-06-30 02:58:42 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\HMS\app\Controllers\Student_Dashboard.php(201): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_Dashboard->update_user()
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_Dashboard))
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-06-30 06:13:26 --> Class "App\Models\model_dues" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_register->getDues()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_register))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-30 06:13:36 --> Class "App\Models\model_dues" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_register->getDues()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_register))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-30 06:14:52 --> Class "App\Models\model_dues" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_register->getDues()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_register))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-30 06:14:56 --> Class "App\Models\model_dues" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_register->getDues()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_register))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-30 06:15:10 --> Class "App\Models\model_dues" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_register->getDues()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_register))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

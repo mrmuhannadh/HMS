@@ -1,0 +1,38 @@
+CRITICAL - 2022-07-03 00:00:40 --> Undefined array key "user_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Warden\Complaints\complaints.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 82)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Warden/Complain...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Warden_Complaints.php(13): view('Warden/Complain...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Complaints->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Complaints))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 10:03:08 --> Undefined array key "user_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Warden\Complaints\complaints.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 82)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Warden/Complain...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Warden_Complaints.php(13): view('Warden/Complain...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Complaints->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Complaints))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-03 10:19:36 --> syntax error, unexpected token "class", expecting "function" or "const"
+#0 C:\xampp\htdocs\HMS\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('/')
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('/')
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-03 10:20:06 --> Class "App\Models\dean_model" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\admin_Dashboard->getData()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin_Dashboard))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-07-03 10:20:39 --> Cannot redeclare App\Controllers\Home::index()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

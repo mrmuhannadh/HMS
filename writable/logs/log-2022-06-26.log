@@ -1,0 +1,139 @@
+CRITICAL - 2022-06-26 03:35:42 --> Undefined array key "user_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\SubWarden\dashboard\index.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 147)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('SubWarden/dashb...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Subwarden_dashboard.php(10): view('SubWarden/dashb...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Dashboard->index()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Dashboard))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-26 13:32:13 --> Call to a member function distinct() on array
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-26 13:32:21 --> Trying to access array offset on value of type null
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Rooms.php(135): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'F:\\SOFTWARES\\ht...', 135)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-26 13:41:58 --> Undefined property: App\Controllers\Warden_Rooms::$db
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Rooms.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 126)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-26 13:42:40 --> Call to a member function distinct() on array
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-26 13:43:40 --> Attempt to read property "uniqid" on array
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Rooms.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'F:\\SOFTWARES\\ht...', 130)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-26 13:43:49 --> Call to a member function uniqid() on array
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-26 13:43:51 --> Call to a member function uniqid() on array
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-26 13:57:29 --> Call to a member function order_by() on array
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-26 13:58:06 --> Call to a member function orderBy() on array
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-26 13:58:23 --> Call to a member function orderBy() on array
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-26 14:02:41 --> Object of class App\Models\boys_hostel could not be converted to string
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-26 14:05:30 --> Undefined variable $rNo2
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Rooms.php(141): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 141)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-26 14:15:03 --> Undefined variable $rNo2
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Rooms.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'F:\\SOFTWARES\\ht...', 143)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-26 14:29:32 --> Call to a member function distinct() on array
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-26 14:31:40 --> Undefined property: App\Controllers\Warden_Rooms::$db
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Rooms.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 128)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-26 14:34:44 --> Undefined property: App\Controllers\Warden_Rooms::$db
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Rooms.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 128)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-26 14:34:57 --> Undefined property: App\Controllers\Warden_Rooms::$db
+#0 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Rooms.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'F:\\SOFTWARES\\ht...', 128)
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-26 22:17:27 --> Undefined array key "user_id"
+#0 F:\SOFTWARES\htdocs\HMS\app\Views\Warden\Rooms\rooms.php(110): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'F:\\SOFTWARES\\ht...', 110)
+#1 F:\SOFTWARES\htdocs\HMS\system\View\View.php(210): include('F:\\SOFTWARES\\ht...')
+#2 F:\SOFTWARES\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Warden/Rooms/ro...', Array, true)
+#4 F:\SOFTWARES\htdocs\HMS\app\Controllers\Warden_Rooms.php(14): view('Warden/Rooms/ro...')
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->room()
+#6 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#7 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-06-26 22:37:49 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT THE FLOOR' at line 1
+CRITICAL - 2022-06-26 22:37:49 --> Call to a member function getResultArray() on bool
+#0 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Warden_Rooms->getRooms()
+#1 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warden_Rooms))
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

@@ -1,0 +1,44 @@
+CRITICAL - 2022-06-28 11:39:05 --> Undefined array key "user_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Student\Register\register.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 106)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Student/Registe...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Student_register.php(19): view('Student/Registe...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Student_register->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student_register))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-28 12:00:12 --> Undefined variable $us_id
+#0 C:\xampp\htdocs\HMS\app\Views\SubWarden\dashboard\index.php(761): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 761)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('SubWarden/dashb...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Subwarden_dashboard.php(10): view('SubWarden/dashb...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-28 12:14:43 --> Undefined variable $us_id
+#0 C:\xampp\htdocs\HMS\app\Views\SubWarden\dashboard\index.php(761): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 761)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('SubWarden/dashb...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Subwarden_dashboard.php(10): view('SubWarden/dashb...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-28 12:17:18 --> Undefined variable $us_id
+#0 C:\xampp\htdocs\HMS\app\Views\SubWarden\dashboard\index.php(761): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 761)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('SubWarden/dashb...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Subwarden_dashboard.php(10): view('SubWarden/dashb...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Subwarden_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subwarden_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

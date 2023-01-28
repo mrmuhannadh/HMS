@@ -1,0 +1,27 @@
+CRITICAL - 2022-08-18 00:05:59 --> Invalid file: login/forgotPassword.php
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/forgotPas...')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('login/forgotPas...', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(127): view('login/forgotPas...')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->forgot_password_view()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-18 00:09:32 --> Invalid file: login/forgotPassword.php
+#0 F:\SOFTWARES\htdocs\HMS\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/forgotPas...')
+#1 F:\SOFTWARES\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('login/forgotPas...', Array, true)
+#2 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(127): view('login/forgotPas...')
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->forgot_password_view()
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-08-18 00:20:37 --> Unknown column 'email' in 'where clause'
+CRITICAL - 2022-08-18 00:20:37 --> Call to a member function getResult() on bool
+#0 F:\SOFTWARES\htdocs\HMS\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#1 F:\SOFTWARES\htdocs\HMS\app\Controllers\Home.php(133): CodeIgniter\BaseModel->find()
+#2 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->forgot_password()
+#3 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 F:\SOFTWARES\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 F:\SOFTWARES\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

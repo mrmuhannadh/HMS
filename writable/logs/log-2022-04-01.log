@@ -1,0 +1,1051 @@
+CRITICAL - 2022-04-01 04:00:12 --> Undefined array key "user_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(158): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 158)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 04:32:12 --> Unmatched '}'
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(18): view('Security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 04:42:08 --> Unclosed '{' on line 158
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(18): view('Security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:35:13 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:35:13 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:35:40 --> syntax error, unexpected token "?"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:35:48 --> syntax error, unexpected token "?"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:36:13 --> syntax error, unexpected token "?"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:36:14 --> syntax error, unexpected token "?"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:36:15 --> syntax error, unexpected token "?"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:37:02 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:37:17 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:37:18 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 11:58:44 --> Undefined array key "password"
+#0 C:\xampp\htdocs\HMS\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 12:00:36 --> Undefined array key "password"
+#0 C:\xampp\htdocs\HMS\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 12:01:12 --> Undefined array key "password"
+#0 C:\xampp\htdocs\HMS\app\Controllers\Home.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Home->check_user()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 12:33:48 --> syntax error, unexpected token ";", expecting "function" or "const"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 12:33:49 --> syntax error, unexpected token ";", expecting "function" or "const"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 12:37:49 --> Undefined array key "student_id"
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 12:46:54 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 12:47:21 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 12:47:23 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 12:47:29 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 12:51:12 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 12:51:25 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 12:54:11 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:02:30 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:02:47 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:02:48 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:02:54 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:03:09 --> Undefined array key "se_student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(160): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 160)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:03:55 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:04:46 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:04:55 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:05:02 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:08:09 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:08:25 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:08:33 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:08:52 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:09:55 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:09:56 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:09:56 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:09:57 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:09:58 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:09:58 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:10:43 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:10:48 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:13:21 --> syntax error, unexpected token ";"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 13:13:48 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 13:14:48 --> Array to string conversion
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 13:15:38 --> Undefined array key "contact_no"
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 13:18:11 --> Undefined array key "pro_pic"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(171): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 171)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:19:29 --> Unclosed '{' on line 162
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 13:19:40 --> Undefined array key "contact_no"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(254): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 254)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:20:10 --> Undefined array key "contact_no"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(254): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 254)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:20:27 --> Undefined array key "email"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(262): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 262)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:22:06 --> Undefined array key "contact_no"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(254): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 254)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:22:58 --> Undefined array key "adrdress"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(254): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 254)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:25:07 --> Undefined array key "student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 161)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:26:56 --> Undefined array key "student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 161)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:27:02 --> Undefined array key "student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 161)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:31:35 --> Undefined array key "student_id"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 161)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:32:27 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 163)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:33:06 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 163)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:33:21 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 163)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:33:50 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 163)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:34:07 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 163)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:34:37 --> Undefined variable $us
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 237)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:35:57 --> Unmatched '}'
+#0 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 13:36:06 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 233)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:36:48 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 233)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:36:53 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 233)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:38:21 --> Unmatched '}'
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 13:38:28 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 233)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:39:55 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 233)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:42:13 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 233)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:42:14 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 233)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:42:21 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 233)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:43:37 --> Undefined variable $obj_student
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 161)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:44:20 --> Undefined variable $obj_student
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(161): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 161)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:44:32 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:44:42 --> Undefined variable $user
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 233)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:45:10 --> Undefined array key "batch"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(264): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 264)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:59:11 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(240): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 240)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:59:54 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(240): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 240)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 13:59:56 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(240): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 240)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 14:01:40 --> Undefined variable $user
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 162)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 14:08:46 --> Undefined variable $use
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 14:08:57 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 14:09:31 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 35)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 14:10:33 --> Array to string conversion
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 14:13:51 --> Unmatched '}'
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 14:17:06 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 241)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 14:17:09 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp\\htdocs...', 241)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 14:20:17 --> Undefined array key "se_student"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(163): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 163)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 14:27:45 --> Undefined array key "student_id"
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 46)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 14:30:24 --> Undefined variable $obj_student
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\Send_sms_student.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 164)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('Security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(19): view('Security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Send_sms_student()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 14:47:30 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 14:53:47 --> Unmatched '}'
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 14:53:55 --> Undefined array key "moblie"
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 41)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 14:55:51 --> syntax error, unexpected token "elseif"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 14:56:39 --> syntax error, unexpected token "elseif"
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 14:56:59 --> Unmatched '}'
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-01 15:09:06 --> Unknown column 'first' in 'where clause'
+CRITICAL - 2022-04-01 15:09:06 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\HMS\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(43): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->Se_search()
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-01 15:17:38 --> Unclosed '{' on line 10
+#0 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\HMS\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

@@ -1,0 +1,128 @@
+CRITICAL - 2022-08-08 00:11:53 --> Undefined array key "user_ar"
+#0 C:\xampp\htdocs\HMS\app\Views\Security\dashboard\index.php(158): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 158)
+#1 C:\xampp\htdocs\HMS\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HMS\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\HMS\system\Common.php(1089): CodeIgniter\View\View->render('security/dashbo...', Array, true)
+#4 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(13): view('security/dashbo...')
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#6 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#7 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-08-08 00:15:20 --> Unknown column 'no' in 'order clause'
+CRITICAL - 2022-08-08 00:15:20 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\HMS\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#1 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(25): CodeIgniter\BaseModel->find()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-08 00:16:57 --> Unknown column 'no' in 'order clause'
+CRITICAL - 2022-08-08 00:16:57 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\HMS\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#1 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(23): CodeIgniter\BaseModel->find()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-08 00:17:00 --> Unknown column 'no' in 'order clause'
+CRITICAL - 2022-08-08 00:17:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\HMS\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#1 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(23): CodeIgniter\BaseModel->find()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-08 00:17:13 --> Unknown column 'no' in 'order clause'
+CRITICAL - 2022-08-08 00:17:13 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\HMS\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#1 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(23): CodeIgniter\BaseModel->find()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-08 00:18:24 --> Unknown column 'no' in 'order clause'
+CRITICAL - 2022-08-08 00:18:24 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\HMS\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#1 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(23): CodeIgniter\BaseModel->find()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-08-08 00:18:27 --> Unknown column 'no' in 'order clause'
+CRITICAL - 2022-08-08 00:18:27 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\HMS\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#1 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(23): CodeIgniter\BaseModel->find()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->index()
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-08 00:26:56 --> Class "App\Models\demo" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\security_DashboardA->log_AAA()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\security_DashboardA))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-08 00:31:30 --> There is no data to update.
+#0 C:\xampp\htdocs\HMS\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\HMS\system\Model.php(651): CodeIgniter\BaseModel->update(NULL, Array)
+#2 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(294): CodeIgniter\Model->update()
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->update_propic()
+#4 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#5 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-08 00:40:28 --> Class "App\Models\demo" not found
+#0 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\security_DashboardA->log_AAA()
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\security_DashboardA))
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-08 01:18:06 --> Undefined variable $obj_Security
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(295): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 295)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->update_propic()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-08 01:18:36 --> Undefined variable $users_id
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(295): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 295)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->update_propic()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-08 01:18:39 --> Undefined variable $users_id
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(295): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 295)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->update_propic()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-08 01:22:41 --> Undefined global variable $_SESSION
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(296): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined globa...', 'C:\\xampp\\htdocs...', 296)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->update_propic()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-08 01:23:02 --> Undefined global variable $_SESSION
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(296): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined globa...', 'C:\\xampp\\htdocs...', 296)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->update_propic()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-08 01:23:45 --> Undefined array key "user_id"
+#0 C:\xampp\htdocs\HMS\app\Controllers\Security_Dashboard.php(297): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 297)
+#1 C:\xampp\htdocs\HMS\system\CodeIgniter.php(832): App\Controllers\Security_Dashboard->update_propic()
+#2 C:\xampp\htdocs\HMS\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Security_Dashboard))
+#3 C:\xampp\htdocs\HMS\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HMS\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
