@@ -1,0 +1,72 @@
+       
+.wrapper {
+    display: flex;
+    align-items: stretch;
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+#sidebar {
+    min-width: 200px;
+    max-width: 200px;
+    min-height: 800px;
+    max-height: 800px;
+	  background:  linear-gradient(to bottom right, rgb(102, 0, 34),rgb(0,0,0) );
+   
+    color: #fff;
+    transition: all 0.3s;
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+}
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+
+#sidebar ul.components {
+    padding: 20px 0;
+    text-decoration: none;
+    
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+    text-decoration: none;
+}
+#sidebar ul li a:hover {
+  color: #fff;
+  text-decoration: none;
+    background: black;
+}
+#sidebar ul li.active > a, a[aria-expanded="true"] {
+    color: #fff;
+    text-decoration: none;
+    
+}
+.linkme{
+    color:white;
+}
+.linkme:focus{
+    background-color: black;
+}

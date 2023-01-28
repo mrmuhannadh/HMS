@@ -1,0 +1,83 @@
+.topH{
+    position: relative;
+    padding-left: 500px;
+    padding-top: 15%;
+}
+
+
+.eee{
+            
+    background-color: black;
+  }
+.roomA{
+    
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+}
+.room{
+    padding-top: 50%;
+    height: 100px;
+    width: 65px;
+}
+
+.roomA:hover{
+    text-decoration: none;
+    color: red;
+    
+}
+
+.level{
+    outline: 2px solid #b0986d;
+    outline-offset: 5px;
+    height: 50;
+    color: black;
+    font-weight: bold;
+    width:100%;
+    
+}
+.level:focus{
+    outline: 2px solid #b0986d;
+    outline-offset: 2px;
+    background-color: darkgray;
+    color:white;
+    
+}
+
+.cnt{
+    padding: 20 10 10 10 ;
+}
+
+
+
+.washroom{
+    height: 100px;
+    width: 100px;
+}
+
+.map{
+    background-color: firebrick;
+    
+}
+
+
+.cor:hover{
+    background-color: brown;
+    color:white;
+}
+
+.thedownload{
+    color:black;
+    text-decoration: underline;
+}
+
+.thedownload:hover{
+    color:maroon;
+    
+}
+
+.modal-header, .modal-footer{
+    background-color:  rgba(5, 51, 84);
+    color:white;
+}
+

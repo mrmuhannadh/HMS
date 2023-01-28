@@ -1,0 +1,42 @@
+.bClass{
+    background-color: aquamarine;
+}
+
+.labelClassForModel{
+    color:black;
+}
+.topic{
+    font-family: Tangerine;
+    padding-top: 15%;
+    padding-left: 30%;
+}
+.propic{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    min-width: 250px;
+    min-height: 250px;
+    max-width: 250px;
+    max-height: 250px;
+    margin-left: 70px;
+}
+.tbl{
+    margin-top: 5%;
+}
+.custom_btn{
+    margin-top: 10px;
+    margin-right:200px;
+}
+.impLink:hover{
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+}
+.impLink{
+    color: white;
+    text-decoration: none;
+}
+.cn{
+    
+    width: 50%;
+}

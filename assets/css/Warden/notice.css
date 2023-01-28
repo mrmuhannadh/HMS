@@ -1,0 +1,21 @@
+.moreDet{
+    display: none;
+    background-color: rgb(145, 145, 145);
+}
+.tbldata{
+    table-layout: fixed;
+}
+.noticeDown{
+    color: white;
+}
+.noticeDown:hover{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+#myInput{
+    display: none;
+}
+.tblname{
+    display: none;
+}

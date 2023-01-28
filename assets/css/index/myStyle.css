@@ -1,0 +1,78 @@
+/*index*/
+.theBtnMob{
+    background:rgb(0, 0, 0);
+}
+.theLogo{
+    width:50px;
+}
+.vidMain{
+    top:0;
+    width: 100%;
+    height: 100vh;
+}
+.myvid{
+    position: relative;
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+}
+.mynavCustom{
+    background: rgba(255, 0, 0, 0);
+}
+.nbr{
+    color:black;
+}
+.nlink{
+    color: rgb(0, 0, 0);
+}
+
+.nlink:hover{
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    
+}
+.labelReset{
+    color:black;
+}
+.labelReset:hover{
+    color:black;
+}
+
+.welMsg{
+    top:50%;
+    left:35%;
+    position: absolute;
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.welMs{
+    font-size: 50px;
+}
+
+.modal-dialog-full-width {
+    max-width: 100%;
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+
+    
+
+}
+
+.modal-content-full-width  {
+    height: 100vh !important;
+    min-height: 100% !important;
+    border-radius: 0 !important;
+    background-color: #ececec !important;
+    width: 100%;
+}
+
+.modal-header-full-width  {
+    border-bottom: 1px solid #9ea2a2 !important;
+}
+
+.modal-footer-full-width  {
+    border-top: 1px solid #9ea2a2 !important;
+}

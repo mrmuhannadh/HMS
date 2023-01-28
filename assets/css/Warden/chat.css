@@ -1,0 +1,300 @@
+
+.bx:hover{
+    transition: 0.5s all ease-in-out;
+    transform: scale(1.0005);
+}
+.h2{
+   text-align: center;
+    padding-left:40%; 
+    padding-bottom:3%; 
+}
+.Dean , .student, .sec, .warden{
+    text-align: center;
+    border-radius: 5px;
+    width:100%;
+    height: 250px;
+    padding-top: 40%;
+    border:1px solid rgba(7,53,86,1);
+    
+}
+.newBx{
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: white;
+    color:black;
+    width:100%;
+    height: 65px;
+    right:0.5%;
+    display: block;
+    border-bottom:1px solid rgba(7,53,86,1);
+    
+}
+
+
+ .student:hover .newBx{
+    position: absolute;
+    position: relative;
+   color:white;
+   
+   left:0px;
+   
+}
+.Dean:hover .newBx{
+    position: absolute;
+    position: relative;
+   color:white;
+   
+   left:0px;
+}
+.newBx #userImage{
+    position: absolute;
+    bottom:25%;
+    
+}
+.headingofdiv{
+    color:white;
+    font-weight: bold;
+}
+.warden:hover .newBx{
+    position: absolute;
+    position: relative;
+   color:white;
+   left:0px;
+}
+.dean:hover .headingofdiv{
+    position: relative;
+    color:rgb(0, 0, 0);
+    
+    
+}
+.dean:hover .imgProBox {
+    max-width: 80px;
+    width:80px;
+    min-width: 80px;
+    height: 80px;
+    min-height: 80px;
+    max-height: 80px;
+    
+}
+.student:hover .imgProBox {
+    top: 1%;
+    max-width: 80px;
+    width:80px;
+    min-width: 80px;
+    height: 80px;
+    min-height: 80px;
+    max-height: 80px;
+    transition: 0.5s all ease;
+}
+.sec:hover .imgProBox {
+    top: 1%;
+    max-width: 80px;
+    width:80px;
+    min-width: 80px;
+    height: 80px;
+    min-height: 80px;
+    max-height: 80px;
+    transition: 0.5s all ease;
+}
+.warden:hover .imgProBox {
+    top: 1%;
+    max-width: 80px;
+    width:80px;
+    min-width: 80px;
+    height: 80px;
+    min-height: 80px;
+    max-height: 80px;
+    transition: 0.5s all ease;
+}
+.student:hover .headingofdiv{
+    position: relative;
+    color:rgb(0, 0, 0);
+    height: 50px;
+    bottom:130%;
+    
+ }
+.sec:hover .headingofdiv{
+    position: relative;
+   color:rgb(0, 0, 0);
+   height: 50px;
+   bottom:130%;
+   
+}
+.warden:hover .headingofdiv{
+    position: relative;
+   color:rgb(0, 0, 0);
+   height: 50px; 
+   bottom:130%;
+  
+  
+}
+.imgProBox{
+    position: relative;
+    border-radius: 50%;
+    max-width: 50px;
+    min-width: 50px;
+    width: 50px;
+    height: 50px;
+    max-height: 50px;
+    min-height: 50px;
+    height: auto;
+    bottom:60%;
+    
+}
+.dean:hover , .student:hover, .sec:hover, .warden:hover{
+     color: white;
+    font-weight: bold;
+    transition: 0.2s all ease;
+ 
+}
+.dean{
+    background: linear-gradient(180deg, rgba(7,53,86,1) 0%, rgba(222,222,222,1) 52%, rgba(255,255,255,1) 53%);
+}
+.dean:hover{
+    box-shadow: 0px 0px 14px 14px rgba(0, 0, 0, 0.3);
+}
+.warden{
+    background: linear-gradient(180deg, rgba(7,53,86,1) 0%, rgba(222,222,222,1) 52%, rgba(255,255,255,1) 53%);
+}
+.warden:hover{
+    box-shadow: 0px 0px 14px 14px rgba(0, 0, 0, 0.3);
+}
+.student{
+    background: linear-gradient(180deg, rgba(7,53,86,1) 0%, rgba(222,222,222,1) 52%, rgba(255,255,255,1) 53%);
+}
+.student:hover{
+    box-shadow: 0px 0px 14px 14px rgba(0, 0, 0, 0.3);
+}
+.sec{
+    background: linear-gradient(180deg, rgba(7,53,86,1) 0%, rgba(222,222,222,1) 52%, rgba(255,255,255,1) 53%);
+}
+.sec:hover{
+    box-shadow: 0px 0px 14px 14px rgba(0, 0, 0, 0.3); 
+}
+.headingofdiv{
+    padding-top: 50px;
+    position: relative;
+    color:rgb(0, 0, 0);
+    height: 50px;
+    bottom:130%;
+}
+
+.msgs{
+    padding: 5% 20% 2% 2%;
+    width: 100%;
+}
+.sentMsg{
+    padding: 2% 2% 2% 20%;
+    width: 100%;
+    
+}
+.sent{
+    background-color: rgb(216, 216, 216);
+    width: 100%;
+    height:50px;
+    color:rgb(0, 0, 0);
+    padding-left: 10px;
+    
+    padding-top: 10px;
+    border-radius: 15px;
+}
+.msg{
+    padding-left: 10px;
+    padding-top: 10px;
+    color:rgb(0, 0, 0);
+    border-radius: 15px;
+    height: 50px;
+    background-color: rgb(83, 215, 255);
+    width: 100%;
+}
+.time{
+    
+    color:rgb(0, 0, 0);
+    background-color:  rgb(83, 215, 255);
+    margin-left: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.timeS{
+    opacity: 0.8;
+    color:rgb(0, 0, 0);
+    background-color: rgb(216, 216, 216);
+    margin-left: 30px;
+    padding-left:  5px;
+    padding-right: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.modal-title{
+    color:white;
+    font-weight: bold;
+    padding-left: 130;
+    position:absolute;
+}
+.in{
+    
+    position: fixed;
+    background-color:darkslategray;
+    color:white;
+    font-weight: bold;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+#send{
+    
+    color:white;
+    background-color:slategray;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#theRec{
+    background: rgb(20,37,19);
+  }
+  #theRec:hover{
+    background: radial-gradient(circle, rgba(20,37,19,1) 0%, rgba(45,54,41,1) 40%, rgba(88,84,78,1) 77%, rgba(124,109,109,1) 100%);
+  }
+  .inBox{
+    width: 95%;
+    padding-left: 5%;
+  }
+  .h2{
+    padding-left: 30%;    
+    font-family: Clip;
+    text-transform: uppercase;
+    font-size:4em;
+    
+  }
+  #sendSub,#sendStu{
+      color:white;
+      background-color:slategray;
+      border-top-right-radius: 10px;
+      border-bottom-right-radius: 10px;
+  }
+  #newMsg{
+    margin-top:5px;
+  }
+
+  .notDiv{
+      width:80%;
+      height: 50px;
+      background: linear-gradient(90deg, rgba(2,95,74,1) 0%, rgba(0,128,128,1) 100%);
+      color:white;
+      font-weight: bold;
+      border-top-right-radius: 10px ;
+      border-top-left-radius: 10px ;
+      border-bottom-right-radius: 10px ;
+      border-bottom-left-radius: 10px ;
+      padding-left: 10px;
+      padding-top: 10px;
+      margin-left:10%;
+      top:2%;
+  }
+
+  .reqBoxRoom{
+    
+  }
+

@@ -1,0 +1,380 @@
+.headerPart {
+
+    padding-top: 5%;
+    height: 94%;
+    background: linear-gradient(158deg, rgba(45, 97, 135, 1)0%, rgba(5, 51, 84, 1));
+    color: white;
+
+}
+.headerFOT{
+    font-size: 15px;
+}
+.navbar-custom {
+    position: fixed;
+
+}
+
+.svgBG {
+    position: absolute;
+    left: 2;
+    top: 65%;
+}
+
+.headBG {
+    position: absolute;
+    background-image: url('https://media.istockphoto.com/photos/hot-air-balloons-flying-over-the-botan-canyon-in-turkey-picture-id1297349747?b=1&k=20&m=1297349747&s=170667a&w=0&h=oH31fJty_4xWl_JQ4OIQWZKP8C6ji9Mz7L4XmEnbqRU=');
+    background-size: cover;
+    z-index: 98;
+    height: 420px;
+    margin-top: 2%;
+    opacity: 0.8;
+
+    left: 42.7%;
+    padding-bottom: 150px;
+
+}
+
+.intro {
+    position: absolute;
+    padding-top: 100px;
+}
+
+
+.proimg {
+    max-width: 120px;
+    max-height: 120px;
+    border-radius: 50%;
+}
+
+.myRoomHead {
+    font-size: 35px;
+}
+.myRoomHeadp{
+    font-size: 20px;
+}
+.imgHeader {
+    position: absolute;
+    opacity: 0.8;
+    left: 5%;
+    margin-bottom: 10px;
+    top: 3%;
+    margin-bottom: 1%;
+    z-index: 3;
+
+}
+
+.proMenu {
+    position: absolute;
+    background-color: rgba(214, 214, 214, 0.2);
+    margin-left: 88%;
+}
+
+.proMenu .dropdown-item {
+    color: white;
+    font-weight: 700;
+}
+
+.proMenu .dropdown-item:hover {
+    background: black;
+}
+
+.proMenu .active {
+    background: black;
+}
+
+.proMenu .dropdown-item:focus {
+    background: black;
+}
+
+.downMenu {
+    
+    background-color: rgba(214, 214, 214, 0.2);
+}
+
+.downMenu .dropdown-item {
+    color: white;
+    font-weight: 700;
+}
+
+.downMenu .dropdown-item:hover {
+    background: black;
+}
+
+.downMenu .active {
+    background: black;
+}
+
+.downMenu .dropdown-item:focus {
+    background: black;
+}
+
+.navbar.scrolled .proimg {
+    display: none;
+}
+
+.navbar.scrolled .nt {
+    display: none;
+}
+
+.navbar.scrolled .darkbtn {
+    display: none;
+}
+
+.navbar.scrolled .eyebtn {
+    display: none;
+}
+
+.navbar.scrolled .logoT {
+    width: 55px;
+    min-width: 55px;
+    max-width: 55px;
+    height: 55px;
+    min-height: 55px;
+    max-height: 55px;
+    transition: 1s all ease;
+    margin-left: 94%;
+    position: absolute;
+    border-radius: 50%;
+    top:5%;
+}
+
+.navbar.scrolled {
+    background-color: rgba(5, 51, 84, 0.7);
+
+}
+
+.scrolled .listbg {
+    display: block;
+}
+
+.scrolled .texthead1 {
+    position: absolute;
+
+}
+
+.p {
+    position: absolute;
+    z-index: -1;
+    padding-left: 15%;
+    padding-bottom: 5%;
+    color: white;
+
+}
+
+.logoT {
+    width:100px;
+    min-width: 100px;
+    max-width: 100px;
+    height: 100px;
+    min-height: 100px;
+    max-height: 100px;
+    margin-left: 90%;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.nt {
+    padding-top: 1%;
+    margin-left: 150px;
+
+}
+
+.nl {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+.nl:hover {
+    color: white;
+    text-decoration: underline;
+
+}
+
+.active {
+    text-decoration: underline;
+}
+
+.listbg {
+    background: linear-gradient(90deg, rgba(171, 0, 57, 1) 0%, rgba(136, 1, 46, 1) 36%, rgba(102, 0, 34, 1) 82%);
+
+}
+
+#texthead1 {
+    position: absolute;
+    left: 30%;
+    display: none;
+    font-size: 35px;
+}
+
+#texthead2 {
+    position: absolute;
+    color: white;
+    right: 10%;
+    left: 15%;
+}
+
+
+/*scroll buttons*/
+
+#myBtn {
+
+    display: none;
+    position: fixed;
+    bottom: 90px;
+    right: 5px;
+    z-index: 99;
+    border: solid 1px black;
+    background: white;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 4 15 8 15;
+    border-radius: 50px / 50px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    width: 120px;
+    height: 40px;
+    transform: rotate(90deg);
+    opacity: 0.5;
+}
+
+.angleTop {
+    transform: rotate(270deg);
+}
+
+#myBtn:hover {
+    opacity: 1;
+    transition: all 500ms ease-in-out;
+    color: white;
+    background: radial-gradient(circle, rgba(154, 154, 91, 1) 0%, rgba(154, 158, 71, 1) 24%, rgba(136, 136, 62, 1) 51%, rgba(106, 107, 60, 1) 72%, rgba(42, 67, 75, 1) 100%);
+}
+
+#myBtn2 {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    left: 30px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background: radial-gradient(circle, rgba(165, 209, 222, 1) 0%, rgba(161, 183, 209, 1) 24%, rgba(48, 157, 179, 1) 50%, rgba(68, 68, 175, 1) 78%, rgba(42, 67, 75, 1) 100%);
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 15 15 15 15;
+    border-radius: 50%;
+}
+
+#myBtn2:active {
+    color: white;
+}
+
+.downBtn {
+    font-size: 30px;
+    z-index: 50;
+    opacity: 0.5;
+}
+
+.downBtn:hover {
+    opacity: 1;
+}
+
+/*scroll bar*/
+::-webkit-scrollbar {
+    width: 16px;
+    height: 16px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, rgba(7, 53, 86, 1) 0%, rgba(126, 177, 213, 1) 46%, rgba(5, 51, 84, 1) 100%);
+    -webkit-box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.10), inset 0 -1px 0 rgba(0, 0, 0, 0.07);
+}
+
+/*for hover to dropdown*/
+.dropme:hover .dropdown-menu {
+    display: block;
+}
+
+.textUnder {
+    font-size: 22px;
+}
+
+
+
+/*Mobile view interface*/
+.footerMob {
+    position: fixed;
+    height: 10%;
+    bottom: 0%;
+    width: 100%;
+    background-color: rgb(210, 229, 255);
+
+
+}
+
+.proimgMob {
+    width: 10%;
+}
+
+.myFot {
+    padding-top: 1%;
+    background-color: rgb(235, 235, 235);
+
+
+
+}
+
+.tArea {
+    background-image: url('https://media.istockphoto.com/photos/hot-air-balloons-flying-over-the-botan-canyon-in-turkey-picture-id1297349747?b=1&k=20&m=1297349747&s=170667a&w=0&h=oH31fJty_4xWl_JQ4OIQWZKP8C6ji9Mz7L4XmEnbqRU=');
+    bottom: 0%;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+}
+
+.activeTA {
+    position: absolute;
+    bottom: 10%;
+    background: rgb(122, 122, 122, 0.5);
+    width: 53px;
+    height: 53px;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 50%;
+}
+
+.myHeadMob {
+    position: absolute;
+    width: 100%;
+    color: white;
+    left: 20%;
+}
+
+.dropMe {
+    background-color: rgba(255, 255, 255, 0.116);
+}
+
+.menuDrop {
+    background-color: rgba(255, 255, 255, 0.116);
+}
+
+.dop {
+    color: white;
+}
+
+
+.myTest{
+    font-size: 12px;
+}
+
+.showimg{
+    width: 100%;
+    object-fit: cover;
+    min-height: 50vh;
+    max-height: 50vh;
+    height: 50vh;
+}

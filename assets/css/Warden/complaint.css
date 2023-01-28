@@ -1,0 +1,13 @@
+
+  .headingofdiv{
+    position: relative;
+    bottom:45px;
+}
+ #postNotice, #sendComp{
+  background: #4285F4;
+  color:white;
+ }
+ #postNotice:hover ,#sendComp:hover{
+  background: #4285F4;
+  color:white;
+ }

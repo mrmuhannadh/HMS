@@ -1,0 +1,40 @@
+.fixedFooter{
+    width: 100%;
+    background-color: rgba(5,51,84,0.9);
+    height: 7%;
+    color:white;
+    text-align: center;
+    font-size: 15px;
+    padding-top:1%;
+    position: fixed;
+    bottom: 0;
+}
+.topFooter{
+
+    bottom: 10%;
+    padding: 2% 0 2% 0;
+    width: 100%;
+    background: linear-gradient(158deg, rgba(45,97,135,1) 0%, rgba(5,51,84,1) 53%, rgba(44,96,133,1) 100%);
+    color:white;
+}
+.link{
+    color:white;
+    font-size: 14px;
+}
+.link:hover{
+    text-decoration: underline;
+    color: white;
+}
+.link:active{
+    color: white;
+}
+
+.dashA{
+    background-image: url('<?=base_url()?>/assets/images/Footer/dash.svg');
+    background-repeat:no-repeat;
+  
+  }
+  .dashC{
+    background-image: url('<?=base_url()?>/assets/images/Footer/chat.svg');
+    background-repeat:no-repeat;
+  }

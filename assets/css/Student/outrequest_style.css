@@ -1,0 +1,33 @@
+
+.wrapper {
+    display: flex;
+    align-items: stretch;
+}
+
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+label {
+    color: #333
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px
+}
+
+.card {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top:10%;
+    
+}

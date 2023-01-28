@@ -1,0 +1,58 @@
+.reqRoom{
+    display: none;
+}
+.req{
+    text-align: center;
+    border-radius: 10px;
+    width:90%;
+    height: 70px;
+    background: linear-gradient(180deg, rgba(7,53,86,1) 0%, rgba(222,222,222,1) 100%, rgba(255,255,255,1) 100%);
+    color:black;
+    font-weight: bold;
+    padding-top: 3%;
+    
+}
+.req:hover{
+  box-shadow: 0px 0px 14px 14px rgba(0, 0, 0, 0.3);
+}
+.myAlert{
+    transition: all 2000ms ease-in-out;
+}
+.alertDanger{
+    animation: blinker 0.5s linear infinite;
+}
+@keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
+
+  .RepHeadDiv{
+    top: 10%;
+    color:rgb(0, 0, 0);
+    height: 50px;
+    bottom:130%;
+  }
+
+  /*expences*/
+  .exp{
+    text-align: center;
+    border-radius: 10px;
+    width:100%;
+    height: 120px;
+    padding-top: 10%;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+  }
+
+  .exp:hover{
+    color: white;
+    font-weight: bold;
+    transition: 0.2s all ease;
+    background: radial-gradient(circle,rgba(0,80,175,1)  0%, rgba(212,4,156,1) 100%);
+
+  }
+  .exp:current{
+    color: red;
+    font-weight: bold;
+  }

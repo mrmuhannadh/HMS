@@ -1,0 +1,116 @@
+
+
+.dark-mode {
+    background-color: Gray;
+    color: white;
+    opacity: 0.8;
+
+  }
+  .dark-mode .darkbtn{
+    color:rgb(0, 0, 0);
+    
+    margin-right: 5%;
+  }
+  .sunn{
+      display: none;
+  }
+  .dark-mode .darkbtn .moonn{
+      display: none;
+  }
+  .darkbtn .sunn{
+    display: none;
+}
+  .dark-mode .darkbtn .sunn{
+      display: block;
+  }
+  .dark-mode .navbar{
+    background-color: darkgray;
+    color:white;
+  }
+  .dark-mode .headerPart{
+    background-color: darkgray;
+    color:white;
+  }
+    .topic{
+        padding-top:15%;
+    }
+  .eyebtn, .darkbtn{
+    
+    color:white;
+    
+    font-size: 18px;
+    margin-left: 430px;
+    position: absolute;
+    top:2%;
+  }
+  .menuTwo{
+    
+  }
+  .menuTwoO{
+    padding-bottom:35px;
+  }
+  .darkbtn{
+    left:84%;
+    bottom: 4%;
+  }
+  .eyebtn{
+    right:8%;
+    bottom: 4%;
+  }
+  .read_mode{
+      background-color: #FBF9C2;
+      opacity: 0.8;
+  }
+  .eyebtn:active, .darkbtn:active{
+      color:aqua;  
+  }
+  .dark-mode .read_mode{
+      color:black;
+  }
+  .read_mode .eyebtn{
+    
+    color:white;
+   
+    margin-left: 430px;
+  }
+  .eyeeNo{
+      display: none;
+  }
+  .read_mode .eyebtn .eyee{
+      display: none;
+  }
+  .read_mode .eyebtn .eyeeNo{
+      display: block;
+  }
+  .eyebtn .eyeeNo{
+    display: none;
+}
+  .btn-default{
+      height: 40px;
+
+  }
+  .modes{
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 15%;
+  }
+  .mode2{
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 5%;
+  }
+  .eee{
+    pointer-events: none;
+    
+  }
+  .room{
+    opacity: 0.5;
+  }
+  .clic .eee{
+    pointer-events: painted;
+  }
+  .clic .room{
+    opacity: 1;
+  }
+  
+  

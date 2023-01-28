@@ -1,0 +1,12 @@
+.active{
+    text-decoration: underline;
+}
+.nl:hover{
+    color: rgb(255, 255, 255);
+    transition: 0.5s all ease;
+    font-size: 17px;
+    
+}
+body{
+    background-color: #e6e6e6;
+}
